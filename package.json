@@ -4,6 +4,7 @@
   "description": "ag-Grid Angular 2 Component",
   "main": "main.js",
   "typings": "./main.d.ts",
+  "registry": "npm",
   "scripts": {
     "postinstall": "./node_modules/.bin/typings install",
     "test": "echo \"Error: no test specified\" && exit 1"
